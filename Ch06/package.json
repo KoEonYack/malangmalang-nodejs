@@ -1,8 +1,8 @@
 {
-  "name": "simple-http-response",
+  "name": "ch05",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
+  "description": "test-resp",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,10 +12,10 @@
   "author": "Covenant",
   "license": "ISC",
   "dependencies": {
-    "code": "^5.2.4",
-    "http": "0.0.0",
-    "http-status": "^1.4.2",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
     "http-status-code": "^2.1.0",
+    "http-status-codes": "^1.4.0",
     "install": "^0.13.0"
   }
 }

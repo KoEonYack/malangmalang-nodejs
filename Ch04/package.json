@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-response",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Covenant",
+  "license": "ISC",
+  "dependencies": {
+    "code": "^5.2.4",
+    "http-status": "^1.4.2",
+    "http-status-code": "^2.1.0"
+  }
+}
